@@ -6,7 +6,7 @@ simple version of word guessing game.
  Feedback is provided for each guess,and the game ends when the player guesses correctly, uses all 6 attempts,
  or provides valid guesses. The code aims to entertain and challenge players in guessing a random word.
 
- for execute code from terminal ;
+ To execute code from terminal ;
  java Wordle WORD1 WORD2 WORD3 WORD4 WORD5 WORD6
 
  
